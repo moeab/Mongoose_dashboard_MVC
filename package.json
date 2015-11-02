@@ -1,0 +1,11 @@
+{
+  "name": "mongoose_CRUD_MVC",
+  "description": "CRUD methods with Mongoose modularized",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "latest",
+    "express": "latest",
+    "mongoose": "latest",
+    "path": "^0.12.7"
+  }
+}
