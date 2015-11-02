@@ -1,5 +1,4 @@
 var mongoose = require('mongoose');
-var Snake = mongoose.model('Animal');
 var snake = require('./../controllers/animals.js');
 module.exports = function(app){
 	app.get('/', function(req, res){
